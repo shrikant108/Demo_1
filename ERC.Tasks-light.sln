@@ -1,0 +1,67 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.23107.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ERC.Tasks-light", "ERC.Tasks-light\ERC.Tasks-light.csproj", "{4A394BA1-50E8-47C6-9A3D-0334E62039C5}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Domain", "Domain\Domain.csproj", "{7213A262-97B0-490B-9792-F3B671B0C8F9}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SLARedLight", "SLARedLight\SLARedLight.csproj", "{00087FAE-B249-49EB-97D4-C04C1B45626D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ERCTasks", "ERCTasks\ERCTasks.csproj", "{4E3987DA-828F-487F-B83B-B59A5F15E717}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TasksDriver", "TasksDriver\TasksDriver.csproj", "{E4BABCDF-CF18-4642-8C30-EACF8B01240D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4A394BA1-50E8-47C6-9A3D-0334E62039C5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4A394BA1-50E8-47C6-9A3D-0334E62039C5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4A394BA1-50E8-47C6-9A3D-0334E62039C5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4A394BA1-50E8-47C6-9A3D-0334E62039C5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7213A262-97B0-490B-9792-F3B671B0C8F9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7213A262-97B0-490B-9792-F3B671B0C8F9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7213A262-97B0-490B-9792-F3B671B0C8F9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7213A262-97B0-490B-9792-F3B671B0C8F9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{00087FAE-B249-49EB-97D4-C04C1B45626D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{00087FAE-B249-49EB-97D4-C04C1B45626D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{00087FAE-B249-49EB-97D4-C04C1B45626D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{00087FAE-B249-49EB-97D4-C04C1B45626D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4E3987DA-828F-487F-B83B-B59A5F15E717}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4E3987DA-828F-487F-B83B-B59A5F15E717}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4E3987DA-828F-487F-B83B-B59A5F15E717}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4E3987DA-828F-487F-B83B-B59A5F15E717}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E4BABCDF-CF18-4642-8C30-EACF8B01240D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E4BABCDF-CF18-4642-8C30-EACF8B01240D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E4BABCDF-CF18-4642-8C30-EACF8B01240D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E4BABCDF-CF18-4642-8C30-EACF8B01240D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(TeamFoundationVersionControl) = preSolution
+		SccNumberOfProjects = 6
+		SccEnterpriseProvider = {4CA58AB2-18FA-4F8D-95D4-32DDF27D184C}
+		SccTeamFoundationServer = http://ercsqlqa01:8080/tfs/erc
+		SccLocalPath0 = .
+		SccProjectUniqueName1 = ERC.Tasks-light\\ERC.Tasks-light.csproj
+		SccProjectName1 = ERC.Tasks-light
+		SccLocalPath1 = ERC.Tasks-light
+		SccProjectUniqueName2 = Domain\\Domain.csproj
+		SccProjectName2 = Domain
+		SccLocalPath2 = Domain
+		SccProjectUniqueName3 = SLARedLight\\SLARedLight.csproj
+		SccProjectName3 = SLARedLight
+		SccLocalPath3 = SLARedLight
+		SccProjectUniqueName4 = ERCTasks\\ERCTasks.csproj
+		SccProjectName4 = ERCTasks
+		SccLocalPath4 = ERCTasks
+		SccProjectUniqueName5 = TasksDriver\\TasksDriver.csproj
+		SccProjectName5 = TasksDriver
+		SccLocalPath5 = TasksDriver
+	EndGlobalSection
+EndGlobal

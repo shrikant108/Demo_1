@@ -1,0 +1,10 @@
+D:\shrikant\GitRepository\ERCTasks\Domain\bin\Debug\Domain.dll
+D:\shrikant\GitRepository\ERCTasks\Domain\bin\Debug\Domain.pdb
+D:\shrikant\GitRepository\ERCTasks\Domain\obj\Debug\Domain.csprojResolveAssemblyReference.cache
+D:\shrikant\GitRepository\ERCTasks\Domain\obj\Debug\Domain.dll
+D:\shrikant\GitRepository\ERCTasks\Domain\obj\Debug\Domain.pdb
+D:\shrikant\GitRepository\ERCTasks_Working\Domain\bin\Debug\Domain.dll
+D:\shrikant\GitRepository\ERCTasks_Working\Domain\bin\Debug\Domain.pdb
+D:\shrikant\GitRepository\ERCTasks_Working\Domain\obj\Debug\Domain.csprojResolveAssemblyReference.cache
+D:\shrikant\GitRepository\ERCTasks_Working\Domain\obj\Debug\Domain.dll
+D:\shrikant\GitRepository\ERCTasks_Working\Domain\obj\Debug\Domain.pdb
